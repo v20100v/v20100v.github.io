@@ -1,0 +1,24 @@
+# Local IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.old
+*.lock
+*.pid
+*.out
+var/
+logs/
+temp/
+tmp/
+cache/
+_staging/
+
+# CV in word format
+cv/**/*.docx
